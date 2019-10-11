@@ -1,0 +1,766 @@
+﻿Aachener Straße 
+Ackerstraße 
+Agathastraße 
+Agnesstraße 
+Ahornstraße 
+Ahrweg 
+Ahrweilerplatz 
+Akazienstraße 
+Alberoplatz 
+Albert-Schweitzer-Straße 
+Albrecht-Dürer-Straße 
+Aldenhovener Straße 
+Alemannenweg 
+Alexanderstraße 
+Alte Jülicher Straße 
+Altenteich 
+Altmünsterstraße 
+Am Adenauerpark 
+Am Alten Eisenhammer 
+Am Alten Kirchweg 
+Am Alten Wasserturm 
+Am Badesee 
+Am Bilderstock 
+Am Breuershäuschen 
+Am Brummenberg 
+Am Burgauer Busch 
+Am Courtenbachshof 
+Am Dürener Weg 
+Am Ellernbusch 
+Am Fuchsberg 
+Am Getzer Acker 
+Am Gieselspfad 
+Am Golfplatz 
+Am Hagedorn 
+Am Hagelkreuz 
+Am Hansgraben 
+Am Hinzenbusch 
+Am Jesuitenhof 
+Am Jugendstadion 
+Am Karmel 
+Am Kirchendriesch 
+Am Knozwinkel 
+Am Krausberg 
+Am Kühlen Graben 
+Am Langen Graben 
+Am Lindenbaum 
+Am Maibusch 
+Am Neuen Friedhof 
+Am Nordpark 
+Am Pletzerturm 
+Am Rölsdorfer Weg 
+Am Römerbad 
+Am Rosssteig 
+Am Rurufer 
+Am Sandberg 
+Am Scheppgraben 
+Am Schlagbaum 
+Am Sportheim 
+Am Stadtpark 
+Am Steinberg 
+Am Tierheim 
+Am Vorbahnhof 
+Am Weckshof 
+Am Wehr 
+Am Weinberg 
+Am Wingert 
+Amselweg 
+Amsterdamer Straße 
+An den Stadtwerken 
+An der Apfelwiese 
+An der Blockstelle 
+An der Erk 
+An der Festhalle 
+An der Garnbleiche 
+An der Gerstenmühle 
+An der Kette 
+An der Kreisbahn 
+An der Kuhbrücke 
+An der Ölmühle 
+An der Pulvermühle 
+An der Scheidheck 
+An der Schießruthe 
+An der Tränke 
+An der Wasserburg 
+An der Windmühle 
+An der Ziegelei 
+An Gut Boisdorf 
+An Gut Nazareth 
+An St. Barbara 
+An St. Bonifatius 
+An St. Johannes 
+An St. Nikolaus 
+Andreas-Kufferath-Platz 
+Andreasstraße 
+Angelastraße 
+Annabergweg 
+Annakirmesplatz 
+Annaplatz 
+Antoniusstraße 
+Antwerpener Straße 
+Ardennenstraße 
+Arndtstraße 
+Arnold-Decker-Platz 
+Arnoldsweilerstraße 
+Arnoldsweilerweg 
+Arnoldusstraße 
+Asternstraße 
+Auf dem Broich 
+Auf dem Bruchkamp 
+Auf dem Büchel 
+Auf dem Driesch 
+Auf dem Flabig 
+Auf dem Hahnberg 
+Auf dem Hammer 
+Auf dem Horstert 
+Auf der Alten Kirche 
+Auf der Kall 
+Auf der Komm 
+Auf der Roer 
+August-Bebel-Straße 
+August-Klotz-Straße 
+August-Lüdenbach-Straße 
+August-Schoop-Straße 
+Auweg 
+Bachstraße 
+Bahnstraße 
+Baumschulenweg 
+Beethovenweg 
+Behringstraße 
+Bergheimer Straße 
+Bergstraße 
+Berliner Straße 
+Berta-Timmermann-Straße 
+Bertramsweg 
+Berzberger Fahrt 
+Berzbuirer Straße 
+Beybusch 
+Beythaler Straße 
+Binsfelder Straße 
+Birgeler Straße 
+Birkenalle 
+Birkesdorfer Straße 
+Bismarckstraße 
+Blachweg 
+Bleiberg 
+Blochfeld 
+Blücherstraße 
+Blumenthalstraße 
+Boisdorfer Weg 
+Bongard 
+Bonner Platz 
+Bonner Straße 
+Borchertstraße 
+Böttcherstraße 
+Brändströmstraße 
+Breite Straße 
+Breitenbend 
+Brentanostraße 
+Breslauer Straße 
+Bretzelnweg 
+Briandstraße 
+Brigidastraße 
+Brückenstraße 
+Brüsseler Straße 
+Buchenstraße 
+Buchheider Weg 
+Bücklersstraße 
+Büngelerstraße 
+Burgacker 
+Burgauer Allee 
+Bürgewaldstraße 
+Buschbenden 
+Buschstraße 
+Cäcilienstraße 
+Campingstraße 
+Cannstatter Straße 
+Carl-Weingartz-Straße 
+Chlodwigplatz 
+Clemensstraße 
+Constanze-Königsfeld-Weg 
+Cormeillesstraße 
+Cornelystraße 
+Cornetzhof 
+Cranachstraße 
+Cyriakusstraße 
+Dahlienstraße 
+Damaschkestraße 
+Dampfmühlenstraße 
+Danziger Straße 
+Darßer Weg 
+Daubenvaldersweg 
+Dechant-Bohnekamp-Straße 
+Dechant-Fröls-Straße 
+Dechant-Vaßen-Straße 
+Derichsweilerstraße 
+Derigsweg 
+Dirichletweg 
+Distelrather Straße 
+Dorfstraße 
+Dornheckweg 
+Dr.-Antonie-Krebs-Straße 
+Dr.-Christian-Seybold-Straße 
+Dr.-Decker-Straße 
+Dr.-Kotthaus-Straße 
+Dr.-Overhues-Allee 
+Dr.-Pesch-Straße 
+Dr.-Robert-Pütz-Straße 
+Draemannsmühle 
+Dresdener Straße 
+Drosselweg 
+Duffesbach 
+Dümpelgasse 
+Dunantstraße 
+Düppelstraße 
+Eberhard-Hoesch-Straße 
+Eburonenweg 
+Echternacher Straße 
+Echtzer Straße 
+Edith-Stein-Straße 
+Edmund-Kurtz-Straße 
+Effertzgasse 
+Eibenweg 
+Eichendorffstraße 
+Eifelplatz 
+Einsteinstraße 
+Eintrachtstraße 
+Eisenbahnstraße 
+Eisenstraße 
+Eiswiese 
+Elberfelder Straße 
+Eldernweg 
+Ellener Straße 
+Elsdorfer Straße 
+Elstergasse 
+Engelbert-Nyt-Straße 
+Engengraben 
+Erftstraße 
+Erkensgasse 
+Erlenstraße 
+Ernst-Bloch-Weg 
+Ernst-Ohst-Straße 
+Ernst-Reuter-Straße 
+Erzbergerstraße 
+Eschstraße 
+Eupener Straße 
+Europaplatz 
+Euskirchener Straße 
+Falkenweg 
+Farbmühlenstraße 
+Fasanenweg 
+Feldstraße 
+Fehlender Feld 
+Felix-Wankel-Straße 
+Fichtestraße 
+Finkenweg 
+Flemingstraße 
+Fliederbusch 
+Flurstraße 
+Fontanestraße 
+Forsthaus Weyern 
+Frankenstraße 
+Franz-Offergeld-Straße 
+Franziskanerstraße 
+Franzstraße 
+Freiheitsplatz 
+Freiheitsstraße 
+Friedensplatz 
+Friedenstraße 
+Friedhofstraße 
+Friedlandstraße 
+Friedrich-Ebert-Platz 
+Friedrichplatz 
+Friedrichstraße 
+Fritz-Erler-Straße 
+Fritz-Keller-Weg 
+Fritz-Pley-Straße 
+Fröbelstraße 
+Frohnhofstraße 
+Fuggerstraße 
+Gartenstraße 
+Gaußstraße 
+Genter Straße 
+Georgstraße 
+Gerhard-Fuß-Straße 
+Gerichtsweg 
+Gertrudisstraße 
+Gillesweg 
+Ginnizweilerstraße 
+Girbelsrather Straße 
+Glashüttenstraße 
+Gneisenaustraße 
+Goebenstraße 
+Goethestraße 
+Gotenweg 
+Graf-Schellart-Platz 
+Graf-Schellart-Weg 
+Grävchen 
+Grube-Alfred-Straße 
+Grüner Weg 
+Grüngürtel 
+Günther-Peill-Straße 
+Gürzenicher Straße 
+Gut Weyern 
+Gutenbergstraße 
+Haarweg 
+Hämmerchensgässchen 
+Hahnenkamp 
+Hainbuchenweg 
+Hallmannsstraße 
+Hammerau 
+Hammerbenden 
+Hammerstraße 
+Hans-Böckler-Straße 
+Hans-Brückmann-Straße 
+Hans-Holbein-Straße 
+Hansemannstraße 
+Hardtstraße 
+Hauptbahnhof 
+Hauptstraße 
+Hebbelstraße 
+Hedwigstraße 
+Heerweg 
+Hegelweg 
+Heinrich-Dauer-Straße 
+Heinrich-Gossen-Straße 
+Heinrich-Hansen-Straße 
+Heinrich-Heine-Straße 
+Henry-Ford-Straße 
+Hermann-Hesse-Straße 
+Hinter Pastorsgarten 
+Hirschgasse 
+Hoeschplatz 
+Hof Rottfeld 
+Hofackerstraße 
+Höfchen 
+Hohenzollernstraße 
+Hölderlinweg 
+Holzstraße 
+Hormer Straße 
+Hospitalstraße 
+Hovener Straße 
+Hubert-Gasper-Straße 
+Hubertusstraße 
+Humboldtstraße 
+Hüttenstraße 
+Im Altwerk 
+Im Dehnacker 
+Im Dunklen Berg 
+Im Eichenbruch 
+Im Eschfeld 
+Im Großen Tal 
+Im Jagdfeld 
+Im Kasteiengarten 
+Im Kleffert 
+Im Königshof 
+Im Kohnental 
+Im Levert 
+Im Lintes 
+Im Mühlenpark 
+Im Pützbroich 
+Im Reuter 
+Im Rossfeld 
+Im Schubigsfeld 
+Im Spich 
+Im Tiergarten 
+Im Weidchen 
+Im Weyerfeld 
+In Bethanien 
+In den Benden 
+In der Kaul 
+In der Laag 
+In der Mühlenau 
+In der Mulde 
+Indestraße 
+Industriestraße 
+Irisweg 
+Isolaplatz 
+Isolastraße 
+Jahnstraße 
+Jakob-Boltersdorf-Straße 
+Jakobusstraße 
+Jesuitengasse 
+Joachimstraße 
+Johann-Bergs-Straße 
+Johanniterstraße 
+Josef-Ebertz-Platz 
+Josef-Geuenich-Straße 
+Josef-Schregel-Straße 
+Josefstraße 
+Kaiserplatz 
+Kaisersbenden 
+Kallsgasse 
+Kämergasse 
+Kampstraße 
+Kantstraße 
+Kapellenstraße 
+Karlstraße 
+Karl-Arnold-Straße 
+Karolingerweg 
+Kastanienweg 
+Katharinenstraße 
+Keltenstraße 
+Keplerstraße 
+Kerpener Straße 
+Kettelerstraße 
+Kiefernweg 
+Kirchfeld 
+Kirchplatz 
+Kirchstraße 
+Klapperstraße 
+Kleinhardt 
+Kleiststraße 
+Klostergasse 
+Koenenstraße 
+Kölner Landstraße 
+Kölnstraße 
+Kolpingstraße 
+Kommgartenweg 
+Kömpchen 
+Königsberger Straße 
+Königspfad 
+Konzendorfer Straße 
+Kopernikusstraße 
+Körnerstraße 
+Krahkopfstraße 
+Krauthausener Straße 
+Kreuzauer Straße 
+Kreuzherrenstraße 
+Kreuzstraße 
+Krokusstraße 
+Kröngensgasse 
+Küferstraße 
+Kufferather Platz 
+Kuhgasse 
+Kupfermühle 
+Küppersgasse 
+Kurfürstenstraße 
+Kurt-Schumacher-Straße 
+Lagerstraße 
+Langenberger Straße 
+Langerweher Straße 
+Lasallestraße 
+Laubenweg 
+Laufenburgstraße 
+Lauscherstraße 
+Laute-Dei-Straße 
+Laverweg 
+Leibnizstraße 
+Leipziger Straße 
+Lendersdorfer Straße 
+Lennarzstraße 
+Leo-Steiger-Straße 
+Leonhardsgasse 
+Leopoldstraße 
+Lerchenweg 
+Lessingstraße 
+Liebigstraße 
+Lilienstraße 
+Lindenbergskamp 
+Liststraße 
+Lommessemstraße 
+Lourdesstraße 
+Löwener Straße 
+Ludwig-Erhard-Platz 
+Ludwigstraße 
+Luisenstraße 
+Lütticher Straße 
+Luxemburger Straße 
+Maarstraße 
+Maasstraße 
+Malteserstraße 
+Maria-Johnen-Straße 
+Mariaweilerstraße 
+Marie-Juchacz-Straße 
+Marienstraße 
+Markt 
+Markusstraße 
+Martin-Luther-Platz 
+Martinusplatz 
+Martinusstraße 
+Masurenstraße 
+Maternusstraße 
+Matthias-Claudius-Straße 
+Max-Oppenheim-Platz 
+Max-Planck-Straße 
+Meckerstraße 
+Meiringplatz 
+Meiringstraße 
+Merianstraße 
+Merkener Weg 
+Meroder Straße 
+Merowinger Straße 
+Merzenicher Straße 
+Metallweberstraße 
+Miesheimer Weg 
+Mirweilerweg 
+Moltkestraße 
+Monschauer Landstraße 
+Monschauer Straße 
+Montessoriweg 
+Mörikestraße 
+Möschengasse 
+Moselstraße 
+Mozartweg 
+Mozenborner Straße 
+Mühlenweg 
+Mühlhovener Straße 
+Münsterweg 
+Nagelschmiedsgasse 
+Neue Aue 
+Neue Jülicher Straße 
+Neue Straße 
+Neuhausgäßchen 
+Neukirchener Straße 
+Neumann-Neander-Straße 
+Neumühle 
+Neusser Straße 
+Nibelungenweg 
+Nickepütz 
+Nicolosengäßchen 
+Nideggener Straße 
+Nietzscheweg 
+Nikolaus-Ehlen-Straße 
+Nikolaus-Otto-Straße 
+Nippesstraße 
+Nordstraße 
+Nörvenicher Straße 
+Novalisstraße 
+Obererz 
+Oberstraße 
+Odenthalstraße 
+Olefstraße 
+Oststraße 
+Ottensgasse 
+Otto-Brenner-Straße 
+Otto-Suhr-Straße 
+Pankratiusstraße 
+Papiermühle 
+Paradiesbenden 
+Paradiesplatz 
+Paradiesstraße 
+Parkstraße 
+Pastor-Hesseler-Straße 
+Pastor-Lüpschen-Straße 
+Paulstraße 
+Penzigstraße 
+Pestalozzistraße 
+Peter-Beier-Platz 
+Peterstraße 
+Pfalzstraße 
+Pfarrer-Füssenich-Straße 
+Pfarrer Ginnen-Straße 
+Pfarrer-Hecker-Straße 
+Pfarrer-Rody-Straße 
+Pfennigsweide 
+Philippstraße 
+Pimmenicher Weg 
+Pitzlergasse 
+Piusstraße 
+Platanenhof 
+Platz der deutschen Einheit 
+Pletzergasse 
+Poliusstraße 
+Pollesmaar 
+Poststraße 
+Professor-Hahn-Straße 
+Pützgesbenden 
+Quirinusstraße 
+Raiffeisenstraße 
+Rathenaustraße 
+Rather Straße 
+Ratsstraße 
+Reginastraße 
+Rektor-Peiffer-Straße 
+Renkerstraße 
+Rheinstraße 
+Rhönstraße 
+Ricarda-Huch-Straße 
+Rilkestraße 
+Ringstraße 
+Ritterstraße 
+Robert-Koch-Straße 
+Roermonder Straße 
+Rölsdorfer Straße 
+Römerstraße 
+Roncallistraße 
+Röntgenstraße 
+Roonstraße 
+Rosenweg 
+Rotdornweg 
+Rotterdamer Straße 
+Rudolf-Diesel-Straße 
+Rudolf-Schock-Platz 
+Rurbenden 
+Rurdammweg 
+Rurstraße 
+Rütger-von-Scheven-Straße 
+Saarstraße 
+Sachsenstraße 
+Saint-Hubert-Straße 
+Salierweg 
+Samlandweg 
+Sattlerstraße 
+Sauerbruchstraße 
+Schafweg 
+Scharnhorststraße 
+Schelle 
+Schenkelstraße 
+Schevenhüttener Straße 
+Schieferbenden 
+Schillerstraße 
+Schillingsstraße 
+Schlehdornweg 
+Schlichbachstraße 
+Schlicher Straße 
+Schlömers Gasse 
+Schloßbergstraße 
+Schmalenburg 
+Schmiedestraße 
+Schmittenfeldchen 
+Schneidhausener Weg 
+Schoellershammer 
+Schoellerstraße 
+Schönwaldweg 
+Schopenhauerweg 
+Schroederstraße 
+Schubertweg 
+Schüllsmühle 
+Schulstraße 
+Schumannweg 
+Schützenstraße 
+Schwalbenweg 
+Schwarzenbroichstraße 
+Schwarzer Weg 
+Schweringstraße 
+Sebastianusstraße 
+Seestraße 
+Senefelderstraße 
+Sepp-Herberger-Platz 
+Sievernicher Straße 
+Sittergraben 
+Sonnenweg 
+Sophienhof 
+Sophie-Scholl-Straße 
+Spenglerstraße 
+St.-Matthias-Straße 
+St.-Michael-Straße 
+Stammelner Fließ 
+Stauffenbergstraße 
+Stefan-Schwer-Straße 
+Stefan-Zweig-Straße 
+Stegerwaldstraße 
+Steglitzstraße 
+Steinbißstraße 
+Steinmaar 
+Steinweg 
+Stephanstraße 
+Stettiner Straße 
+Steufmehlweg 
+Stockheimer Landstraße 
+Stresemannstraße 
+Stürtzstraße 
+Südstraße 
+Talbenden 
+Talstraße 
+Tannenbergstraße 
+Tannenweg 
+Taunusstraße 
+Teichstraße 
+Thomas-Mann-Straße 
+Thomasstraße 
+Tischlerstraße 
+Tivolistraße 
+Traunseeweg 
+Trierbachweg 
+Trierer Straße 
+Trift 
+Tuchbleiche 
+Tuchmühle 
+Tulpenstraße 
+Turmstraße 
+Ubierstraße 
+Uferstraße 
+Uhlandstraße 
+Ulmenstraße 
+Urbanusstraße 
+Urftstraße 
+Ursulastraße 
+Ursulinenstraße 
+Valencienner Straße 
+Van-der-Giese-Straße 
+Van-der-Velden-Straße 
+Veldener Straße 
+Velinstraße 
+Viandener Straße 
+Victor-Gollancz-Straße 
+Vikar-Klein-Straße 
+Viktoriastraße 
+Vilvenicher Weg 
+Violengasse 
+Vischenichstraße 
+Von-Aue-Straße 
+Von-Elmpt-Straße 
+Von-Spee-Straße 
+Wachtelweg 
+Waidfeld 
+Waisenhausstraße 
+Waldstraße 
+Wallstraße 
+Walzmühle 
+Warener Straße 
+Weberstraße 
+Wechselsaat 
+Weckspfad 
+Weidenpesch 
+Weidmühlenstraße 
+Weierstraße 
+Wenzel-Hollar-Straße 
+Werderstraße 
+Wernersstraße 
+Wewordenstraße 
+Wiechertstraße 
+Wieselsmaar 
+Wiesenstraße 
+Wilhelm-Schüll-Straße 
+Wilhelm-Wester-Weg 
+Wilhelmstraße 
+Willi-Bleicher-Straße 
+Willi-Rixen-Straße 
+Willy-Brandt-Park 
+Winand-Dammers-Straße 
+Windgensgasse 
+Wirtelstraße 
+Wirteltorplatz 
+Wittenauer Straße 
+Wittlicher Straße 
+Wolffsgasse 
+Wörthstraße 
+Wüstweilerstraße 
+Yorckstraße 
+Zehnthofstraße 
+Zeppelinstraße 
+Zollhausplatz 
+Zollhausstraße 
+Zu den Blanken 
+Zu den Gärten 
+Zülpicher Platz 
+Zülpicher Straße 
+Zum Bauschhof 
+Zum Berzberg 
+Zum Blümling 
+Zum Bruch 
+Zum Friesenhof 
+Zum Froschmaar 
+Zum Katzbach 
+Zum Kirchenpättchen 
+Zum Knipp 
+Zum Mühlengraben 
+Zum Pastorsweiher 
+Zum Richelnberg 
+Zum Roten Kreuz 
+Zum Volkspark 
+Zum Wibbelrusch 
+Zur Kesselkaul 
+Zur Lohe 
+Zur Rölsdorfer Burg 

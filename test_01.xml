@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<td>
+    <filespec>
+        <filename>testdaten2.csv</filename>
+    </filespec>
+    <rowspec>
+        <rowcount>100</rowcount>
+    </rowspec>
+    <colspec>
+        <col>
+            <colname>nr</colname>
+            <coltype>1</coltype>
+        </col>
+        <col>
+            <colname>Nachname</colname>
+            <coltype>3</coltype>
+            <colfile>Dat01Nachnamen.txt</colfile>
+        </col>
+        <col>
+            <colname>Vorname</colname>
+            <coltype>3</coltype>
+            <colfile>Dat07Vornamen.txt</colfile>
+        </col>
+        <col>
+            <colname>Abteilung</colname>
+            <coltype>3</coltype>
+            <colfile>Dat06Abteilung.txt</colfile>
+        </col>
+    </colspec>
+</td>
