@@ -14,9 +14,11 @@ Write-Host ""
 Write-Host "Spezifikation auswerten"
 $ausgabeDatei = $spezifikation.td.filespec.filename
 $anzahlDatensaetze = $spezifikation.td.rowspec.rowcount
+$trennzeichen = $spezifikation.td.rowspec.delimeterspec
 $anzahlSpalten = ($spezifikation.td.colspec.col).length
 Write-Host "    Ausgabedatei: $ausgabedatei"
 Write-Host "    Anzahl Datensätze: $anzahlDatensaetze"
+Write-Host "    Trennzeichen: $trennzeichen"
 Write-Host "    Anzahl Spalten: $anzahlSpalten"
 for($i = 0; $i -lt $anzahlSpalten; $i++) {
     $spaltenName = ($spezifikation.td.colspec.col)[$i].colname
@@ -30,11 +32,17 @@ Write-Host "Benötigte Listen einlesen"
 $dateiListe = @{}
 for($i = 0; $i -lt $anzahlSpalten; $i++) {
     $spaltenTyp = ($spezifikation.td.colspec.col)[$i].coltype
-    if( $spaltenTyp -eq 3) {
+    if( ($spaltenTyp -eq 3) -or ($spaltenTyp -eq 4)) {
         $spaltenDatei = ($spezifikation.td.colspec.col)[$i].colfile
-        $liste = Import-Csv -Path $spaltenDatei  -Header "spalte1"
+        $liste = Import-Csv -Path $spaltenDatei -Header "spalte1"
         $dateiListe.Add($spaltenDatei, $liste)
-        Write-Host "         Datei $spaltenDatei eingelesen"
+        Write-Host "         Datei $spaltenDatei (Einspaltendatei) eingelesen"
+        }
+    if( ($spaltenTyp -eq 5)) {
+        $spaltenDatei = ($spezifikation.td.colspec.col)[$i].colfile
+        $liste = Import-Csv -Path $spaltenDatei 
+        $dateiListe.Add($spaltenDatei, $liste)
+        Write-Host "         Datei $spaltenDatei (Mehrspaltendatei) eingelesen"
         }
     }
 Write-Host ""
@@ -44,7 +52,7 @@ $zeilenText = ""
 for($i = 0; $i -lt $anzahlSpalten; $i++) {
     $spaltenName = ($spezifikation.td.colspec.col)[$i].colname
     if( $i -ne 0) {
-        $zeilenText = $zeilenText + ";"
+        $zeilenText = $zeilenText + $trennzeichen
         }
     $zeilenText = $zeilenText + $spaltenName
     }
@@ -56,7 +64,7 @@ for( $zeile = 1; $zeile -le $anzahlDatensaetze; $zeile++) {
     $zeilenText = ""
     for($i = 0; $i -lt $anzahlSpalten; $i++) {
         if( $i -ne 0) {
-            $zeilenText = $zeilenText + ";"
+            $zeilenText = $zeilenText + $trennzeichen
             }
         $spaltenTyp = ($spezifikation.td.colspec.col)[$i].coltype
         if( $spaltenTyp -eq 1) {                                                # 1 - laufende Nummer
@@ -66,12 +74,29 @@ for( $zeile = 1; $zeile -le $anzahlDatensaetze; $zeile++) {
             $zahl = Get-Random -Minimum 1 -Maximum 200
             $zeilenText = $zeilenText + $zahl
             }
-        if( $spaltenTyp -eq 3) {                                                # 3 - Zufallswert aus Datei
+        if( $spaltenTyp -eq 3) {                                                # 3 - Einspaltendatei - Zufallsreihenfolge
             $spaltenDatei = ($spezifikation.td.colspec.col)[$i].colfile
-            $maxZahl = ($dateiListe[$spaltenDatei]).Length -1
+            $maxZahl = ($dateiListe[$spaltenDatei]).Length - 1
             $zufall = Get-Random -Minimum 0 -Maximum ($maxZahl)
             $wert = ($dateiListe[$spaltenDatei])[$zufall].spalte1
             $zeilenText = $zeilenText + $wert
+            }
+        if( $spaltenTyp -eq 4) {                                                # 4 - Einspaltendatei - Reihenfolge
+            $spaltenDatei = ($spezifikation.td.colspec.col)[$i].colfile
+            $maxZahl = ($dateiListe[$spaltenDatei]).Length 
+            $index = ($zeile - 1) % $maxZahl
+            $wert = ($dateiListe[$spaltenDatei])[$index].spalte1
+            $zeilenText = $zeilenText + $wert
+            }
+        if( $spaltenTyp -eq 5) {                                                # 5 - Mehrspaltendatei - Zufallsreihenfolge
+            $spaltenDatei = ($spezifikation.td.colspec.col)[$i].colfile
+            $maxZahl = ($dateiListe[$spaltenDatei]).Length - 1
+            $zufall = Get-Random -Minimum 0 -Maximum ($maxZahl)
+            $anzahlDetailspalten = $spaltenDatei = (($spezifikation.td.colspec.col)[$i].detailcol).length
+            for( $detailspalte = 1; $detailspalte -le $anzahlDetailspalten; $detailspalte++) {
+                $wert = ($dateiListe[$spaltenDatei])[$zufall].plz
+                $zeilenText = $zeilenText + $wert
+                }
             }
         }
         $zeilenText | Out-File -FilePath $ausgabeDatei -Append                  # Datenzeile ausgeben

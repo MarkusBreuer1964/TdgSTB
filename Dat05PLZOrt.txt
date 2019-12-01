@@ -1,4 +1,5 @@
-﻿Aach;78267
+﻿Ort;PLZ
+Aach;78267
 Aach;54298
 Aachen;52062
 Aachen;52064

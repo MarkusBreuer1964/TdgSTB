@@ -5,6 +5,7 @@
     </filespec>
     <rowspec>
         <rowcount>100</rowcount>
+        <delimeterspec>;</delimeterspec>
     </rowspec>
     <colspec>
         <col>
@@ -25,6 +26,20 @@
             <colname>Abteilung</colname>
             <coltype>3</coltype>
             <colfile>Dat06Abteilung.txt</colfile>
+        </col>
+        <col>
+            <colname>Sicherheitsstufe</colname>
+            <coltype>4</coltype>
+            <colfile>Dat08Sicherheitsstufe.txt</colfile>
+        </col>
+        <col>
+            <colname>OrtPLZ</colname>
+            <coltype>5</coltype>
+            <colfile>Dat05PLZOrt.txt</colfile>
+            <detailcol>
+                <detailcolname>PLZ</detailcolname>
+                <detailcolname>Ort</detailcolname>
+            </detailcol>
         </col>
     </colspec>
 </td>
