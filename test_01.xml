@@ -4,7 +4,7 @@
         <filename>testdaten2.csv</filename>
     </filespec>
     <rowspec>
-        <rowcount>100</rowcount>
+        <rowcount>3000</rowcount>
         <delimeterspec>;</delimeterspec>
     </rowspec>
     <colspec>
@@ -41,5 +41,10 @@
                 <detailcolname>Ort</detailcolname>
             </detailcol>
         </col>
+        <col>
+            <colname>Zufallszahl</colname>
+            <coltype>2</coltype>
+         </col>
+
     </colspec>
 </td>
