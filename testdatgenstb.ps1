@@ -4,7 +4,7 @@
         Dieses Skript erzeugt eine Testdatendatei. Gesteuert wird die Testdatengenerierung
         durch eine XML-Datei, welche am Skriptanfang eingelesen wird. Bei der Testdatengenerierung
         kann auf Datenlisten zugegriffen werden, welche entweder mitgeliefert sind, 
-        oder vom Benutzer zur verfügung gestellt werden.
+        oder vom Benutzer zur Verfügung gestellt werden.
 
 .NOTES
 
@@ -18,11 +18,13 @@
 
 	Datum:
 		Erstellt:			27.07.2019
-		Letzte Änderung:	11.10.2019
+		Letzte Änderung:	13.12.2019
 
 #>
 
 ####################################################################################
+
+# Konfigurationsteil; muss vom Benutzer jeweils angepasst werden.
 
 $datenVerzeichnis = "Z:\Sonstiges\Markus\Weiterbildung\TestDatGenSTB"
 $spezifikationsDatei = "test_01.xml"
