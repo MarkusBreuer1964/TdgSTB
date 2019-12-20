@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <td>
     <filespec>
-        <filename>testdaten2.csv</filename>
+        <filename>Beispiel_01_Testdaten.csv</filename>
     </filespec>
     <rowspec>
-        <rowcount>3000</rowcount>
+        <rowcount>1000</rowcount>
         <delimeterspec>;</delimeterspec>
     </rowspec>
     <colspec>
         <col>
-            <colname>nr</colname>
+            <colname>LfNr</colname>
             <coltype>1</coltype>
         </col>
         <col>
@@ -19,21 +19,15 @@
         </col>
         <col>
             <colname>Vorname</colname>
-            <coltype>3</coltype>
+            <coltype>5</coltype>
             <colfile>Dat07Vornamen.txt</colfile>
+            <detailcol>
+                <detailcolname>Vorname</detailcolname>
+                <detailcolname>Geschlecht</detailcolname>
+            </detailcol>
         </col>
         <col>
-            <colname>Abteilung</colname>
-            <coltype>3</coltype>
-            <colfile>Dat06Abteilung.txt</colfile>
-        </col>
-        <col>
-            <colname>Sicherheitsstufe</colname>
-            <coltype>4</coltype>
-            <colfile>Dat08Sicherheitsstufe.txt</colfile>
-        </col>
-        <col>
-            <colname>OrtPLZ</colname>
+            <colname>PlzOrt</colname>
             <coltype>5</coltype>
             <colfile>Dat05PLZOrt.txt</colfile>
             <detailcol>
@@ -42,9 +36,13 @@
             </detailcol>
         </col>
         <col>
-            <colname>Zufallszahl</colname>
+            <colname>Strasse</colname>
+            <coltype>3</coltype>
+            <colfile>Dat04Strassennamen.txt</colfile>
+        </col>
+        <col>
+            <colname>Hausnummer</colname>
             <coltype>2</coltype>
          </col>
-
     </colspec>
 </td>

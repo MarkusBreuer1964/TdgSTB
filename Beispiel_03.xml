@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<td>
+    <filespec>
+        <filename>Beispiel_03_Testdaten.csv</filename>
+    </filespec>
+    <rowspec>
+        <rowcount>3000</rowcount>
+        <delimeterspec>;</delimeterspec>
+    </rowspec>
+    <colspec>
+        <col>
+            <colname>nr</colname>
+            <coltype>1</coltype>
+        </col>
+        <col>
+            <colname>Nachname</colname>
+            <coltype>3</coltype>
+            <colfile>Dat01Nachnamen.txt</colfile>
+        </col>
+        <col>
+            <colname>Vorname</colname>
+            <coltype>3</coltype>
+            <colfile>Dat07Vornamen.txt</colfile>
+        </col>
+        <col>
+            <colname>Abteilung</colname>
+            <coltype>3</coltype>
+            <colfile>Dat06Abteilungen.txt</colfile>
+        </col>
+        <col>
+            <colname>Sicherheitsstufe</colname>
+            <coltype>4</coltype>
+            <colfile>Dat08Sicherheitsstufen.txt</colfile>
+        </col>
+        <col>
+            <colname>OrtPLZ</colname>
+            <coltype>5</coltype>
+            <colfile>Dat05PLZOrt.txt</colfile>
+            <detailcol>
+                <detailcolname>PLZ</detailcolname>
+                <detailcolname>Ort</detailcolname>
+            </detailcol>
+        </col>
+        <col>
+            <colname>Zufallszahl</colname>
+            <coltype>2</coltype>
+         </col>
+
+    </colspec>
+</td>

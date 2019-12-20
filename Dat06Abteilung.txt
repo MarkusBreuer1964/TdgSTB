@@ -1,5 +1,0 @@
-﻿Einkauf
-Produktion
-Verkauf
-Geschäftsführung
-Verwaltung

@@ -18,7 +18,7 @@
 
 	Datum:
 		Erstellt:			27.07.2019
-		Letzte Änderung:	13.12.2019
+		Letzte Änderung:	20.12.2019
 
 #>
 
@@ -27,7 +27,7 @@
 # Konfigurationsteil; muss vom Benutzer jeweils angepasst werden.
 
 $datenVerzeichnis = "Z:\Sonstiges\Markus\Weiterbildung\TestDatGenSTB"
-$spezifikationsDatei = "test_01.xml"
+$spezifikationsDatei = "Beispiel_03.xml"
 
 ####################################################################################
 
@@ -90,9 +90,15 @@ $erste = $true
 for($i = 0; $i -lt $anzahlSpalten; $i++) {
     $spaltenTyp = ($spezifikation.td.colspec.col)[$i].coltype
     if( ($spaltenTyp -eq 5)) {                              # Mehrspaltendatei
-        $anzahlDetailSpalten = (($spezifikation.td.colspec.col)[$i].detailcol.detailcolname).length
+#        $anzahlDetailSpalten = (($spezifikation.td.colspec.col)[$i].detailcol.detailcolname).length
+        $anzahlDetailSpalten = ($spezifikation.td.colspec.col)[$i].detailcol.detailcolname.count
         for( $j = 0; $j -lt $anzahlDetailSpalten; $j++){
-            $spaltenName = (($spezifikation.td.colspec.col)[$i].detailcol).detailcolname[$j]
+            if($anzahlDetailSpalten -eq 1){                     # unschön, wenn nur eine Spalte einer Mehrspaltendatei benötigt wird
+                $spaltenName = (($spezifikation.td.colspec.col)[$i].detailcol).detailcolname
+                }
+            else {
+                $spaltenName = (($spezifikation.td.colspec.col)[$i].detailcol).detailcolname[$j]                 
+            }
             if( $erste -ne $true) {
                 $zeilenText = $zeilenText + $trennzeichen
                 }
@@ -149,12 +155,17 @@ for( $zeile = 1; $zeile -le $anzahlDatensaetze; $zeile++) {
             $spaltenDatei = ($spezifikation.td.colspec.col)[$i].colfile
             $maxZahl = ($dateiListe[$spaltenDatei]).Length - 1
             $zufall = Get-Random -Minimum 0 -Maximum ($maxZahl)
-            $anzahlDetailSpalten = (($spezifikation.td.colspec.col)[$i].detailcol.detailcolname).length
+            $anzahlDetailSpalten = (($spezifikation.td.colspec.col)[$i].detailcol.detailcolname).count
             for( $j=0; $j -lt $anzahlDetailSpalten; $j++) {
                 if( $j -ne 0) {
                     $zeilenText = $zeilenText + $trennzeichen
                     }
-                $spaltenName = (($spezifikation.td.colspec.col)[$i].detailcol).detailcolname[$j]
+                if($anzahlDetailSpalten -eq 1){                     # unschön, wenn nur eine Spalte einer Mehrspaltendatei benötigt wird
+                    $spaltenName = (($spezifikation.td.colspec.col)[$i].detailcol).detailcolname
+                    }
+                else {
+                    $spaltenName = (($spezifikation.td.colspec.col)[$i].detailcol).detailcolname[$j]                 
+                }
                 $wert = ($dateiListe[$spaltenDatei])[$zufall].$spaltenName
                 $zeilenText = $zeilenText + $wert
                 }
